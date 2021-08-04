@@ -3,4 +3,7 @@ Tutorials
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :hidden:
+   :caption: Python
+
+   python/c_integration.rst
