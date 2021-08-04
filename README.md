@@ -1,2 +1,3 @@
-# tutorials
-Tutorials about everything for everyone.
+# Tutorials
+
+Tutorials about everything for beginners.
