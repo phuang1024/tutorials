@@ -8,6 +8,12 @@ Tutorials
 
    bash/stream_redirect.rst
 
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: C++
+
+   cpp/dynamic_alloc.rst
 
 .. toctree::
    :maxdepth: 1
