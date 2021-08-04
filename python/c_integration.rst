@@ -91,3 +91,18 @@ Running ``main.py`` prints:
     7.699999809265137
 
 as expected. The float error is due to limited precision.
+
+C++
+---
+
+Calling C++ is very similar. All we need to do is declare our functions as C:
+
+.. code-block:: cpp
+
+    #include <iostream>
+
+    extern "C" void print_hello(void) {
+        std::cout << "Hello world!" << std::endl;
+    }
+
+and use ``g++`` when compiling.
