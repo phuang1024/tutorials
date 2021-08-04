@@ -15,3 +15,4 @@ Tutorials
    :caption: Python
 
    python/c_integration.rst
+   python/decorators.rst
