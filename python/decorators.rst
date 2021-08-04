@@ -19,7 +19,7 @@ before:
 First, let's understand functions a bit more.
 
 Functions as Objects
-====================
+--------------------
 
 In Python, functions are objects, meaning they can be assigned to another
 variable, passed as arguments, and returned:
@@ -36,7 +36,7 @@ variable, passed as arguments, and returned:
     func_copy2 = do_nothing(func)
 
 Your First Decorator
-====================
+--------------------
 
 The ``@decorator`` syntax is a shorter and cleaner way to apply a decorator.
 It is actually doing:
